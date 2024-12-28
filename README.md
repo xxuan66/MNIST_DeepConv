@@ -69,11 +69,7 @@ pip install torch torchvision matplotlib
 3. 针对嵌入式和移动设备优化推理速度。
 
 ## 贡献者
-- **Zhao Xuan**  
-  如果你对本项目有任何建议或意见，请通过[Email](mailto:your_email@example.com)联系。
-
-## 许可证
-本项目使用 [MIT License](LICENSE) 开源。
+- **Xuan**  
 ```
 
 
