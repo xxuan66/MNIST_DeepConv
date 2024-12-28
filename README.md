@@ -50,6 +50,8 @@ pip install torch torchvision matplotlib
 3. **结果展示**
    模型训练完成后，会在`modelsave/`文件夹中保存训练好的权重，同时在测试集上展示第一个预测结果及模型整体准确率。
 
+![image](https://github.com/user-attachments/assets/16c228ac-39ef-4da6-a264-9755e7838caf)
+
 ## 项目结果
 - 分类准确率：**98.7%**
 - 模型参数量对比：
@@ -74,4 +76,5 @@ pip install torch torchvision matplotlib
 本项目使用 [MIT License](LICENSE) 开源。
 ```
 
-你可以根据需要修改内容，例如更换邮箱地址或项目名。如果有其他需求，随时告知！
+
+
