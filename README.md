@@ -38,8 +38,8 @@ pip install torch torchvision matplotlib
 ## 运行步骤
 1. **克隆仓库**
    ```bash
-   git clone https://github.com/your_username/MNIST-Dilated-Separable.git
-   cd MNIST-Dilated-Separable
+   git clone https://github.com/xxuan66/MNIST_DeepConv.git
+   cd MNIST_DeepConv
    ```
 
 2. **运行代码**
