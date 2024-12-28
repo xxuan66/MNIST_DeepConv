@@ -1,5 +1,5 @@
 # @Time    : 28/12/2024 上午 10:00
-# @Author  : Zhao Xuan
+# @Author  : Xuan
 # @File    : 基于深度可分离膨胀卷积的MNIST手写体识别.py
 # @Software: PyCharm
 
